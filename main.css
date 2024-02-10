@@ -22,3 +22,16 @@ form {
     justify-content: center;
     align-items: center;
 }
+
+.form-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.form-img img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
